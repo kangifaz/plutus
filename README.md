@@ -19,13 +19,6 @@ plutus-public/
 │   └── ...
 └── README.md
 ```
-
-## README.md (public):
-```markdown
-# Plutus Project (Public)
-
-This repository documents the public-facing progress and findings of thesis research in finance, focusing extensively on investment strategies and stock market analyses. Regular updates, detailed thesis chapters, and key event logs are provided here.
-
 ## Repository Contents
 
 - **reports/**: Thesis chapters and comprehensive reports.
@@ -47,7 +40,7 @@ This repository documents the public-facing progress and findings of thesis rese
 
 ## Additional Information
 - Technical details, raw datasets, analytical notebooks, and model files are located in the private repository.
-```
+
 
 ---
 
